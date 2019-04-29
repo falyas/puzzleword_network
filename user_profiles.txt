@@ -1,0 +1,3 @@
+[player , game]
+[researcher , research]
+[ubuntu , ur5]
